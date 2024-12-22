@@ -1,2 +1,4 @@
-# kompleksitasbakteri
-Analisis Kompleksitas Algoritma pada Pertumbuhan Koloni Bakteri E. Coli Menggunakan Algoritma Iteratif dan Rekursif
+# KompleksitasBakteri
+Analisis Kompleksitas Algoritma pada Pertumbuhan Koloni Bakteri E. Coli Menggunakan Skema Iteratif dan Rekursif
+
+Penelitian ini berfokus pada pemodelan dan analisis pola pertumbuhan bakteri *Escherichia coli* (E. coli) menggunakan dua pendekatan algoritma, yaitu skema iteratif dan rekursif. Studi kasus dilakukan dengan simulasi pertumbuhan koloni bakteri dari populasi awal sebanyak 300 bakteri hingga 300 kali perulangan. Penelitian ini bertujuan untuk mengevaluasi efisiensi dan kompleksitas dari kedua skema algoritma tersebut, baik dalam waktu eksekusi maupun performa berdasarkan parameter simulasi yang berbeda. Hasil analisis diharapkan dapat memberikan wawasan mengenai kelebihan dan kekurangan masing-masing pendekatan serta menentukan pendekatan yang lebih optimal sesuai kebutuhan simulasi.
